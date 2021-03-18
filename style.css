@@ -1,0 +1,23 @@
+a:link{
+    color:rgb(253, 76, 76)
+}
+
+a:visited{
+    color:rgb(207, 25, 25);
+}
+
+h1{
+    color:#ff0599;
+}
+
+h2{
+    color:green;
+}
+
+h1{
+    color:darkred;
+}
+
+/* .grid{
+    display: flex;
+} */
